@@ -29,6 +29,10 @@
 			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
 			"name": "Web electric3",
 			"@type": "Painting"
+		},
+		{
+			"image": "https://cdn.rawgit.com/JackAdamsJenkins/data/ef89c3854735a785e33a2fa52840180c5cf9c1c6/portfolio/images/annonce%20new%20projet%20drm.jpg",
+			"name": "Annonce%20new%20projet%20drm"
 		}
 	]
 }
